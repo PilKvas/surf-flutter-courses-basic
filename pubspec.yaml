@@ -16,5 +16,15 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
 
+
+
+
 flutter:
   uses-material-design: true
+  fonts:
+    - family: RubikBubbles
+      fonts:
+        - asset: fonts/RubikBubbles-Regular.ttf
+    - family: RubikMonoOne
+      fonts:
+        - asset: fonts/RubikMonoOne-Regular.ttf
